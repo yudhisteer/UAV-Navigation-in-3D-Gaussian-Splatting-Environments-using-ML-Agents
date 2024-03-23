@@ -7,3 +7,4 @@
 4. https://radiancefields.com/comfy3d-integrates-triposr/
 5. https://github.com/MrForExample/ComfyUI-3D-Pack?tab=readme-ov-file#install
 6. https://radiancefields.com/comfy3d-for-comfyui/
+7. https://radiancefields.com/how-nerfs-will-alter-our-lives-fashion/
