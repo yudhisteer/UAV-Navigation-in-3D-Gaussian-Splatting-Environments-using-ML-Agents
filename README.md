@@ -1,5 +1,22 @@
 # UAV Navigation in 3D Gaussian Splatting Environments using ML-Agents
 
+## Plan of Action
+1. 3D Gaussian Splatting
+
+------------------------------
+## 1. 3D Gaussian Splatting
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
 ## References
 1. https://www.thomasantony.com/posts/gaussian-splatting-renderer/
 2. https://github.com/MrNeRF/awesome-3D-gaussian-splatting
