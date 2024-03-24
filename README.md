@@ -27,3 +27,4 @@
 7. https://radiancefields.com/how-nerfs-will-alter-our-lives-fashion/
 8. https://radiancefields.com/comfy3d-integrates-triposr/
 9. https://huggingface.co/spaces/stabilityai/TripoSR
+10. https://radiancefields.com/how-to-create-gaussian-splats-with-nerfstudio/
