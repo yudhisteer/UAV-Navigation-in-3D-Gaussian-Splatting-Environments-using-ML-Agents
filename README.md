@@ -30,4 +30,5 @@
 10. https://radiancefields.com/how-to-create-gaussian-splats-with-nerfstudio/
 11. https://www.youtube.com/watch?v=x604ghp9R_Q
 12. https://www.youtube.com/watch?v=Sxy7tcRZh-8
-13. 
+13. https://github.com/chiehwangs/3d-gaussian-theory
+14. https://www.youtube.com/watch?v=VkIJbpdTujE
