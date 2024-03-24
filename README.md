@@ -28,3 +28,6 @@
 8. https://radiancefields.com/comfy3d-integrates-triposr/
 9. https://huggingface.co/spaces/stabilityai/TripoSR
 10. https://radiancefields.com/how-to-create-gaussian-splats-with-nerfstudio/
+11. https://www.youtube.com/watch?v=x604ghp9R_Q
+12. https://www.youtube.com/watch?v=Sxy7tcRZh-8
+13. 
