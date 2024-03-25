@@ -10,10 +10,15 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/7401dff2-a640-40a4-90fa-e48afb2b542a" width="50%" />
+</p>
 
-![cat_1](https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/0a69dd82-d77a-40e1-a4c1-50a76f3348cf)
 
-<img width="452" alt="image" src="https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/42c7119a-ae95-4355-acf8-b271b08e1ffc">
+<p align="center">
+  <img src="https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/42c7119a-ae95-4355-acf8-b271b08e1ffc" width="50%" />
+</p>
+
 
 
 ------------------------------
