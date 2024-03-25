@@ -39,3 +39,4 @@
 15. https://www.reshot.ai/3d-gaussian-splatting
 16. https://johnowhitaker.github.io/tglcourse/
 17. https://www.youtube.com/watch?v=jV1g5OY0L5s
+18. https://sketchfab.com/3d-models/sleeping-cat-on-the-bed-1-3d-scan-ae07a741be6944e8ba5e2657069d3aaf
