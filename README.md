@@ -20,7 +20,7 @@ In all these three methods, the continuous 3D geometry is **approximated** by a 
 
 In NeRF, the 3D scene is represented by a ```continuous function``` that maps a **3D position coordinate** ```(x, y, z)``` and a **viewing direction** ```(θ, φ)``` to a **color** ```(RGB)``` and a **density** value. This function is modeled by a ```neural network``` trained on a series of 2D images and their corresponding ```camera poses``` (intrinsic and extrinsic parameters).
 
-Again, how is this different from traditional rending 3D graphics?
+Again, how is this different from traditional rendering computer graphics?
 
 1. **Rasterization**: We take 3D meshes and convert them into 2D pixels. The meshes are effectively projected onto the 2D image plane and filled in with color values.
 2. **Ray Tracing**: Ray tracing calculates how light interacts with objects in a 3D scene. Rays are tracked from the viewer's eye through each pixel on the screen, considering complex interactions such as reflections and refractions.
