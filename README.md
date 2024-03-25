@@ -32,3 +32,4 @@
 12. https://www.youtube.com/watch?v=Sxy7tcRZh-8
 13. https://github.com/chiehwangs/3d-gaussian-theory
 14. https://www.youtube.com/watch?v=VkIJbpdTujE
+15. https://www.reshot.ai/3d-gaussian-splatting
