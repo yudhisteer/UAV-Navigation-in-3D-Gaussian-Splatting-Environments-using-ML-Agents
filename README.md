@@ -1,16 +1,18 @@
 # UAV Navigation in 3D Gaussian Splatting Environments using ML-Agents
 
 ## Plan of Action
-1. 3D Gaussian Splatting
+1. NeRF in a nutshell
 
 ------------------------------
-## 1. 3D Gaussian Splatting
+## 1. NeRF in a nutshell
 
 
 
 
 
+![cat_1](https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/0a69dd82-d77a-40e1-a4c1-50a76f3348cf)
 
+<img width="452" alt="image" src="https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/42c7119a-ae95-4355-acf8-b271b08e1ffc">
 
 
 
