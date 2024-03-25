@@ -2,6 +2,7 @@
 
 ## Plan of Action
 1. NeRF in a nutshell
+2.  3D Gaussian Splatting
 
 ------------------------------
 ## 1. NeRF in a nutshell
@@ -15,7 +16,8 @@
 <img width="452" alt="image" src="https://github.com/yudhisteer/UAV-Navigation-in-3D-Gaussian-Splatting-Environments-using-ML-Agents/assets/59663734/42c7119a-ae95-4355-acf8-b271b08e1ffc">
 
 
-
+------------------------------
+## 2.  3D Gaussian Splatting
 
 ------------------------------
 
