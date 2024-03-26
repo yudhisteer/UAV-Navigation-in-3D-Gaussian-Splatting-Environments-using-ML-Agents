@@ -1,11 +1,12 @@
 # UAV Navigation in 3D Gaussian Splatting Environments using ML-Agents
 
 ## Plan of Action
-1. NeRF in a nutshell
-2.  3D Gaussian Splatting
+1. Pre-requisites
+3. NeRF in a nutshell
+4. 3D Gaussian Splatting
 
 ------------------------------
-## 1. NeRF in a nutshell
+## 2. NeRF in a nutshell
 In a previous project - [Assessing NeRF's Efficacy in 3D Model Reconstruction: A Comparative Analysis with Blender](https://github.com/yudhisteer/Assessing-NeRF-s-Efficacy-in-3D-Model-Reconstruction-A-Comparative-Analysis-with-Blender) - I explained the mechanics behind NeRF and how to train a NeRF from scratch. In this section, I will briefly recap on the workings of NeRF. 
 
 In a nutshell, NeRF is about 3D reconstructing a scene and providing photorealistic novel-view synthesis based on a series of 2D images represented using a continuous neural radiance field, which is a neural network. 
@@ -14,7 +15,7 @@ But how is this different from traditional methods? Well, traditional 3D reconst
 
 1. **Point clouds**: Each point in 3D space have its own set of **(x, y, z)** coordinates. More on this [here](https://github.com/yudhisteer/Point-Clouds-3D-Perception-with-Open3D).
 2. **Voxel Grids**: Represents the 3D geometry as a regular grid of **cubic voxels** (**volumetric pixels**), where each voxel is either occupied or empty.More on this [later](https://github.com/yudhisteer/Volumetric-Deep-Learning-Voxelization).
-3. **Meshes**: A mesh representation consists of a set of **vertices** (points in 3D space), **edges** (lines connecting vertices), and **faces** (typically triangles formed by vertices and edges). More on this below.
+3. **Meshes**: A mesh representation consists of a set of **vertices** (points in 3D space), **edges** (lines connecting vertices), and **faces** (typically triangles formed by vertices and edges). More on this above.
 
 In all these three methods, the continuous 3D geometry is **approximated** by a ```finite set``` of **discrete** elements such as points, voxels, vertices, and faces. 
 
@@ -49,7 +50,7 @@ The problem with NeRF is that it is slow for real-time rendering. Mainly because
 
 
 ------------------------------
-## 2.  3D Gaussian Splatting
+## 3.  3D Gaussian Splatting
 
 ------------------------------
 
@@ -72,3 +73,6 @@ The problem with NeRF is that it is slow for real-time rendering. Mainly because
 16. https://johnowhitaker.github.io/tglcourse/
 17. https://www.youtube.com/watch?v=jV1g5OY0L5s
 18. https://sketchfab.com/3d-models/sleeping-cat-on-the-bed-1-3d-scan-ae07a741be6944e8ba5e2657069d3aaf
+19. https://towardsdatascience.com/turn-yourself-into-a-3d-gaussian-splat-3a2bc59a770f
+20. https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/
+21. https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/
