@@ -76,3 +76,8 @@ The problem with NeRF is that it is slow for real-time rendering. Mainly because
 19. https://towardsdatascience.com/turn-yourself-into-a-3d-gaussian-splat-3a2bc59a770f
 20. https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/
 21. https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/
+22. https://medium.com/towards-data-science/a-python-engineers-introduction-to-3d-gaussian-splatting-part-1-e133b0449fc6
+23. https://towardsdatascience.com/turn-yourself-into-a-3d-gaussian-splat-3a2bc59a770f
+24. https://www.reshot.ai/3d-gaussian-splatting
+25. https://poly.cam/tools/gaussian-splatting
+26. https://azadux.blog/2024/07/21/realitycapturetopostshot/
