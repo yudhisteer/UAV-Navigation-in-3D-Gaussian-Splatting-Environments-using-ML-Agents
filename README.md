@@ -81,3 +81,4 @@ The problem with NeRF is that it is slow for real-time rendering. Mainly because
 24. https://www.reshot.ai/3d-gaussian-splatting
 25. https://poly.cam/tools/gaussian-splatting
 26. https://azadux.blog/2024/07/21/realitycapturetopostshot/
+27. https://andrewkchan.dev/posts/lit-splat.html
